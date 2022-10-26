@@ -1,0 +1,24 @@
+ion-icon {
+	color: whitesmoke;
+	--ionicon-stroke-width: 80px;
+}
+
+.pink {
+	background-color: hsla(335, 89%, 47%, 0.954);
+}
+
+.blue {
+	background-color: rgb(60, 5, 223);
+}
+
+.yellow {
+	background-color: rgb(255, 255, 0);
+}
+
+.red {
+	background-color: red;
+}
+
+.purple {
+	background-color: purple;
+}
